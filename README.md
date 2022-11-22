@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ananya Mondal.
 - ⚛️ I'm a PhD student in physics at the University of Houston.
 - 🧬 I’m interested in computational modeling of biological processes.
-- 💻 I have mostly used C++, Mathematica, Python, OpenMM for teh projects listed here.
+- 💻 I have mostly used C++, Mathematica, Python, OpenMM for my Github repositories.
 - 🌱 I'm currently learning machine learning algorithms.
 
 <!---
